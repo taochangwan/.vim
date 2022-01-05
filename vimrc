@@ -96,6 +96,8 @@ nnoremap Q :q<cr>
 
 nnoremap W :w<cr>
 
+nnoremap S :x<cr>
+
 nnoremap H 5h<cr>
 nnoremap J 5j<cr>
 nnoremap K 5k<cr>
